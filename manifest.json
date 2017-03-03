@@ -1,0 +1,8 @@
+{
+  "name": "Ruffy Castro",
+  "short_name": "ruffycastro",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "start_url": "/?homescreen=1"
+}
